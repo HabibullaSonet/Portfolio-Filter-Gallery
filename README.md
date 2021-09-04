@@ -1,5 +1,7 @@
 # Portfolio-Filter-Gallery
-Portfolio Filter Gallery only using HTML and CSS
+Portfolio Filter Gallery only using HTML and CSS 🔽
+
+![Image Galary](https://user-images.githubusercontent.com/82251942/132083737-0e9b7f0c-5bd9-4325-b391-a867a99c3dae.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
